@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707593765 source:c:\users\sumon\desktop\c program\array_practice\arr1\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
